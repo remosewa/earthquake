@@ -1,0 +1,32 @@
+.detail-container {
+    font-weight: 700;
+}
+
+.detail-container .detail-table-container{
+    margin: auto;
+    width: 50%;
+}
+
+.detail-container table {
+    margin: auto;
+}
+
+.detail-container .title {
+    font-size: 20px;
+    margin: 20px 0 20px 0;
+    color: var(--dark-text-color);
+    display: table-caption;
+}
+
+.detail-container th {
+    color: var(--dark-text-color);
+    padding-right: 20px;
+}
+
+.detail-container td {
+    color: var(--light-text-color);
+}
+
+.detail-container .detail-table-container {
+    text-align: left;
+}

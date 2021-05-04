@@ -1,0 +1,36 @@
+
+.profile-container .title {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px;
+    color: var(--dark-text-color);
+}
+
+.profile-container .profile-image {
+    display: inline-block;
+    align-items: left;
+    padding-left: 20px;
+    vertical-align: top;
+}
+
+.profile-container .profile-table-container {
+    display: inline-block;
+    align-items: end;
+    padding-left: 20px;
+    width: 25%;
+    font-weight: 700;
+
+}
+
+.profile-container th {
+    min-width: 80px;
+    text-align: left;
+    padding-right: 20px;
+    color: var(--dark-text-color);
+    vertical-align: top;
+}
+
+.profile-container td {
+    text-align: left;
+    color: var(--light-text-color);
+}

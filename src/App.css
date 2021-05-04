@@ -1,0 +1,19 @@
+:root {
+  --light-text-color: #777777;
+  --header-bg-color: #ededed;
+  --dark-text-color: #444444;
+  --link-color: #0011bb;
+  --link-used-color: #6600cc;
+}
+
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+
+

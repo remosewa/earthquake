@@ -1,0 +1,35 @@
+
+
+.Earthquake-header {
+    background-color: var(--header-bg-color);
+    min-height: 100px;
+    display: flex;
+}
+
+.Header-logo {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.Header-title {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--light-text-color);
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.Header-profile {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
